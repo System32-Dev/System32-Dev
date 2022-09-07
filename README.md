@@ -1,5 +1,5 @@
 ### About Me
-> Fullstack developer with a passion for school internet freedom <br>
+> Fullstack developer finding his way in life <br>
 
 ### Projects
 
