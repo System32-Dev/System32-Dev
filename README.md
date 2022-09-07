@@ -9,4 +9,4 @@
 
 ### Contact
 
-> <img width="32px" height="32px" src="https://th.bing.com/th/id/OIP.GbVZegtyQj0nhTkQROgIdgHaHa?pid=ImgDet&rs=1"> Contact me through Discord at https://discord.com/users/728947635397984297
+> <img width="32px" height="32px" src="https://th.bing.com/th/id/OIP.GbVZegtyQj0nhTkQROgIdgHaHa?pid=ImgDet&rs=1"> Contact me through <a href="https://discord.com/users/728947635397984297">Discord</a>
