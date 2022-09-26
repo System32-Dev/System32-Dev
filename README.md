@@ -1,5 +1,5 @@
 ### About Me
-> Fullstack developer, and 100% gamer.<br>
+> Fullstack developer making his way through life.<br>
 
 ### Projects
 
