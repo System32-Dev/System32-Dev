@@ -4,7 +4,7 @@
 ### Projects
 
 > <a style="color: grey;" href="https://sussyamongus.net/">Cyclone</a> <img src="https://sussyamongus.net/images/cyclone2.png" width="16px" height="16px"> <br>
-> <a href="https://github.com/SmartCoder3000/Sting/">Sting</a> 🐝 <br>
+> <a href="https://github.com/AstralServices/Sting-Proxy/">Sting</a> 🐝 <br>
 > <a href="https://ProxyHaven.jimmynuetron.repl.co/">ProxyHaven</a> <img src="https://ProxyHaven.jimmynuetron.repl.co/images/logo.png" width="16px" height="16px"> <br>
 
 ### Contact
