@@ -3,9 +3,9 @@
 
 ### Projects
 
-> <a href="https://github.com/NebulaServices/cyclone2">Cyclone 🌪</a> <br>
+> <a href="https://github.com/NebulaServices/cyclone2">NBA Simulation 🏀</a> <br>
 > <a href="https://github.com/AstralServices/Sting/">Sting 🐝</a> <br>
-> <a href="https://github.com/NebulaServices/cyclone2">Cyclone2 ⚡</a> <br>
+> <a href="https://github.com/NebulaServices/cyclone2">Cyclone ⚡</a> <br>
 
 ### Contact
 
