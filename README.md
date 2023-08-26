@@ -1,9 +1,9 @@
 ### About Me
-> Fullstack developer making his way through life.<br>
+> Fullstack developer and full-time idiot.<br>
 
 ### Projects
 
-> <a href="https://github.com/NebulaServices/cyclone2">NBA Simulation 🏀</a> <br>
+> <a href="https://github.com/System32-Dev/NBA-SimLeague">NBA Simulation 🏀</a> <br>
 > <a href="https://github.com/AstralServices/Sting/">Sting 🐝</a> <br>
 > <a href="https://github.com/NebulaServices/cyclone2">Cyclone ⚡</a> <br>
 
