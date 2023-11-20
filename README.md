@@ -1,5 +1,5 @@
 ### About Me
-> Fullstack developer and full-time idiot.<br>
+> Fullstack developer and westbrook fan.<br>
 
 ### Projects
 
